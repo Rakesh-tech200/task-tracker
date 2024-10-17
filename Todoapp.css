@@ -32,3 +32,14 @@ left: 620px;
 .done{
     margin-left: 5px;
 }
+button {
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: darkgray;
+}
